@@ -1,5 +1,0 @@
-# "Configuration Management"
-
-In this repository, you will find the Beer Song project -- the project assigned to us to better understand git and further improve our Java capabilities.
-
-The functionality specifications calls for the program to output the hit classic "99 Bottles of Beer" song to the terminal.
